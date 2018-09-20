@@ -61,4 +61,8 @@ public class ObservableVSIterator implements Program {
             System.out.println(iterator.next());
         }
     }
+
+    public static void main(String[] args) {
+        new ObservableVSIterator().run();
+    }
 }
