@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="9">
-      <module name="ReactiveProgrammingWithJava8" target="1.5" />
+      <module name="ReactiveProgrammingWithJava8" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>
