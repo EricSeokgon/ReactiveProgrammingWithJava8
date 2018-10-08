@@ -25,5 +25,30 @@
             <artifactId>rxjava</artifactId>
             <version>1.0.8</version>
         </dependency>
+        <dependency>
+            <groupId>com.google.http-client</groupId>
+            <artifactId>google-http-client</artifactId>
+            <version>1.17.0-rc</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/org.apache.httpcomponents/httpasyncclient -->
+        <dependency>
+            <groupId>org.apache.httpcomponents</groupId>
+            <artifactId>httpasyncclient</artifactId>
+            <version>4.1.4</version>
+        </dependency>
+
+        <dependency>
+            <groupId>com.google.code.gson</groupId>
+            <artifactId>gson</artifactId>
+            <version>2.3</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/com.netflix.rxjava/rxjava-apache-http -->
+        <dependency>
+            <groupId>com.netflix.rxjava</groupId>
+            <artifactId>rxjava-apache-http</artifactId>
+            <version>0.20.7</version>
+        </dependency>
+
+
     </dependencies>
 </project>
