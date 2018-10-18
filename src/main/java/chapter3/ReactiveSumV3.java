@@ -4,6 +4,8 @@ import common.Program;
 import rx.Observable;
 import rx.subjects.BehaviorSubject;
 
+import static common.Helpers.subscribePrint;
+
 public class ReactiveSumV3 implements Program {
 
     public static class ReactiveSum {
