@@ -47,5 +47,4 @@ public class UsingGroupBy implements Program {
     public static void main(String[] args) {
         new UsingGroupBy().run();
     }
-
 }
